@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Crossref Scope="SDCAxisCtrl_X" AppMod="">
+  <Vars>
+    <Var Name="AxisX_HW.EncIf1_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="16" C="10" A="W" PS=" Ln:16, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DiDoIf_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="17" C="10" A="W" PS=" Ln:17, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DrvIf_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="18" C="10" A="W" PS=" Ln:18, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.EncIf1_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="21" C="17" A="RW" PS=" Ln:21, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DrvIf_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="22" C="17" A="RW" PS=" Ln:22, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DiDoIf_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="23" C="17" A="RW" PS=" Ln:23, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iEncOK" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="26" C="13" A="W" PS=" Ln:26, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iDrvOK" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="27" C="13" A="W" PS=" Ln:27, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iStatusEnable" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="28" C="13" A="W" PS=" Ln:28, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iDriveReady" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="29" C="14" A="W" PS=" Ln:29, Col:14" />
+      </File>
+    </Var>
+    <Var Name="fb_regulator" Scope="Global" Type="FB_Regulator">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="71" C="18" A="RW" PS=" Ln:71, Col:18" />
+        <Pos L="80" C="17" A="RW" PS=" Ln:80, Col:17" />
+        <Pos L="114" C="16" A="RW" PS=" Ln:114, Col:16" />
+        <Pos L="122" C="17" A="RW" PS=" Ln:122, Col:17" />
+      </File>
+    </Var>
+    <Var Name="fb_regulator.dt" Scope="Global" Type="FB_Regulator">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="31" C="14" A="W" PS=" Ln:31, Col:14" />
+      </File>
+    </Var>
+    <Var Name="fb_regulator.k_i" Scope="Global" Type="FB_Regulator">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="32" C="14" A="W" PS=" Ln:32, Col:14" />
+      </File>
+    </Var>
+    <Var Name="fb_regulator.k_p" Scope="Global" Type="FB_Regulator">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="33" C="14" A="W" PS=" Ln:33, Col:14" />
+      </File>
+    </Var>
+    <Var Name="fb_regulator.max_abc_value" Scope="Global" Type="FB_Regulator">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="34" C="14" A="W" PS=" Ln:34, Col:14" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.pwm_period" Scope="Local" Type="UINT">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="36" C="2" A="W" PS=" Ln:36, Col:2" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.posEnable.enable" Scope="Local" Type="Pos">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="41" C="15" A="R" PS=" Ln:41, Col:15" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.oSetPos" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="43" C="14" A="W" PS=" Ln:43, Col:14" />
+        <Pos L="45" C="14" A="W" PS=" Ln:45, Col:14" />
+        <Pos L="70" C="33" A="R" PS=" Ln:70, Col:33" />
+        <Pos L="113" C="31" A="R" PS=" Ln:113, Col:31" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.posEnableRight.enable" Scope="Local" Type="Pos">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="44" C="27" A="R" PS=" Ln:44, Col:27" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iActTime" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="48" C="13" A="W" PS=" Ln:48, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iPosHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="49" C="14" A="W" PS=" Ln:49, Col:14" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="64" C="13" A="RW" PS=" Ln:64, Col:13" />
+        <Pos L="68" C="13" A="RW" PS=" Ln:68, Col:13" />
+        <Pos L="74" C="13" A="RW" PS=" Ln:74, Col:13" />
+        <Pos L="82" C="12" A="RW" PS=" Ln:82, Col:12" />
+        <Pos L="111" C="11" A="RW" PS=" Ln:111, Col:11" />
+        <Pos L="117" C="11" A="RW" PS=" Ln:117, Col:11" />
+        <Pos L="124" C="12" A="RW" PS=" Ln:124, Col:12" />
+        <Pos L="126" C="12" A="RW" PS=" Ln:126, Col:12" />
+        <Pos L="130" C="13" A="RW" PS=" Ln:130, Col:13" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.endswitch_a_reached" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="49" C="33" A="R" PS=" Ln:49, Col:33" />
+        <Pos L="51" C="20" A="R" PS=" Ln:51, Col:20" />
+        <Pos L="66" C="22" A="R" PS=" Ln:66, Col:22" />
+        <Pos L="109" C="20" A="R" PS=" Ln:109, Col:20" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iNegHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="50" C="14" A="W" PS=" Ln:50, Col:14" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.endswitch_b_reached" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="50" C="33" A="R" PS=" Ln:50, Col:33" />
+        <Pos L="52" C="20" A="R" PS=" Ln:52, Col:20" />
+        <Pos L="67" C="22" A="R" PS=" Ln:67, Col:22" />
+        <Pos L="110" C="20" A="R" PS=" Ln:110, Col:20" />
+      </File>
+    </Var>
+    <Var Name="iPosHwEnd" Scope="Global" Type="BOOL">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="51" C="2" A="W" PS=" Ln:51, Col:2" />
+        <Pos L="66" C="4" A="W" PS=" Ln:66, Col:4" />
+        <Pos L="109" C="2" A="W" PS=" Ln:109, Col:2" />
+        <Pos L="118" C="6" A="R" PS=" Ln:118, Col:6" />
+      </File>
+    </Var>
+    <Var Name="iNegHwEnd" Scope="Global" Type="BOOL">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="52" C="2" A="W" PS=" Ln:52, Col:2" />
+        <Pos L="67" C="4" A="W" PS=" Ln:67, Col:4" />
+        <Pos L="110" C="2" A="W" PS=" Ln:110, Col:2" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.coil_powered" Scope="Local" Type="BOOL">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="54" C="5" A="R" PS=" Ln:54, Col:5" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.Already_Homed" Scope="Local" Type="BOOL">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="56" C="7" A="R" PS=" Ln:56, Col:7" />
+        <Pos L="129" C="4" A="W" PS=" Ln:129, Col:4" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.reset_counter" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="63" C="10" A="W" PS=" Ln:63, Col:10" />
+        <Pos L="125" C="9" A="W" PS=" Ln:125, Col:9" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.coil_pwm_value" Scope="Local" Type="INT">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="65" C="4" A="W" PS=" Ln:65, Col:4" />
+        <Pos L="78" C="3" A="W" PS=" Ln:78, Col:3" />
+        <Pos L="108" C="2" A="W" PS=" Ln:108, Col:2" />
+        <Pos L="120" C="3" A="W" PS=" Ln:120, Col:3" />
+      </File>
+    </Var>
+    <Var Name="fb_regulator.e" Scope="Global" Type="FB_Regulator">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="70" C="16" A="W" PS=" Ln:70, Col:16" />
+        <Pos L="79" C="15" A="W" PS=" Ln:79, Col:15" />
+        <Pos L="113" C="14" A="W" PS=" Ln:113, Col:14" />
+        <Pos L="121" C="15" A="W" PS=" Ln:121, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.speed" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="70" C="55" A="R" PS=" Ln:70, Col:55" />
+        <Pos L="113" C="54" A="R" PS=" Ln:113, Col:54" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.u" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="73" C="10" A="W" PS=" Ln:73, Col:10" />
+        <Pos L="81" C="9" A="W" PS=" Ln:81, Col:9" />
+        <Pos L="116" C="8" A="W" PS=" Ln:116, Col:8" />
+        <Pos L="123" C="9" A="W" PS=" Ln:123, Col:9" />
+      </File>
+    </Var>
+    <Var Name="fb_regulator.u" Scope="Global" Type="FB_Regulator">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="73" C="27" A="R" PS=" Ln:73, Col:27" />
+        <Pos L="116" C="25" A="R" PS=" Ln:116, Col:25" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iLifeCnt" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="94" C="13" A="W" PS=" Ln:94, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntDriveEnable" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="95" C="14" A="W" PS=" Ln:95, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntDriveReady" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="96" C="14" A="W" PS=" Ln:96, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntNegHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="97" C="14" A="W" PS=" Ln:97, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntPosHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="98" C="14" A="W" PS=" Ln:98, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntReference" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="99" C="14" A="W" PS=" Ln:99, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iLifeCnt" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="100" C="13" A="W" PS=" Ln:100, Col:13" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.k" Scope="Local" Type="INT">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="127" C="6" A="R" PS=" Ln:127, Col:6" />
+        <Pos L="132" C="3" A="W" PS=" Ln:132, Col:3" />
+      </File>
+    </Var>
+  </Vars>
+  <Consts>
+    <Const Name="ncSDC_ENC16" Scope="Global" Type="UINT">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="16" C="24" A="R" PS=" Ln:16, Col:24" />
+      </File>
+    </Const>
+    <Const Name="ncSDC_DRVSERVO16" Scope="Global" Type="UINT">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="18" C="23" A="R" PS=" Ln:18, Col:23" />
+      </File>
+    </Const>
+    <Const Name="ncSDC_DIDO" Scope="Global" Type="UINT">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="17" C="24" A="R" PS=" Ln:17, Col:24" />
+      </File>
+    </Const>
+  </Consts>
+  <Funcs>
+    <Func Name="AsIOTimeCyclicStart" Lib="">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="48" C="30" PS=" Ln:48, Col:30" />
+      </File>
+    </Func>
+    <Func Name="FB_Axis" Lib="">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="64" C="4" PS=" Ln:64, Col:4" />
+        <Pos L="68" C="4" PS=" Ln:68, Col:4" />
+        <Pos L="74" C="4" PS=" Ln:74, Col:4" />
+        <Pos L="82" C="3" PS=" Ln:82, Col:3" />
+        <Pos L="111" C="2" PS=" Ln:111, Col:2" />
+        <Pos L="117" C="2" PS=" Ln:117, Col:2" />
+        <Pos L="124" C="3" PS=" Ln:124, Col:3" />
+        <Pos L="126" C="3" PS=" Ln:126, Col:3" />
+        <Pos L="130" C="4" PS=" Ln:130, Col:4" />
+      </File>
+    </Func>
+    <Func Name="FB_Regulator" Lib="">
+      <File Name="C:/Users/admin/Documents/KRBO_02_22/Donor/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="71" C="4" PS=" Ln:71, Col:4" />
+        <Pos L="80" C="3" PS=" Ln:80, Col:3" />
+        <Pos L="114" C="2" PS=" Ln:114, Col:2" />
+        <Pos L="122" C="3" PS=" Ln:122, Col:3" />
+      </File>
+    </Func>
+  </Funcs>
+</Crossref>
